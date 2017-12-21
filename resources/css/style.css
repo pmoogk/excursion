@@ -6,6 +6,18 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: Verdana;
+  font-weight: 300%;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;
+}
 body {
   background-color: black;
   text-align: center;
@@ -14,4 +26,8 @@ body {
 .download_link {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.copyright {
+  text-align: right;
 }
